@@ -1,3 +1,6 @@
+#------------------------------------------
+#Author: Sebastian Cajas Ordonez
+#------------------------------------------
 from scipy.io import arff
 import pandas as pd
 import math
